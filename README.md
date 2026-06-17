@@ -1,4 +1,10 @@
 <p align="center">
+
+Apps in Toss · 실제 서비스 출시 · 현재 운영 중
+
+</p>
+
+<p align="center">
   <img src="screenshots/cover.png" width="100%">
 </p>
 
