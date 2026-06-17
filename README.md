@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./screenshots/cover.png" alt="준비해여행 서비스 대표 이미지" width="100%">
+</p>
+
+<div align="center">
+
 # 준비해여행
 
 ### 여행 준비 과정에서 반복적으로 발생하는 준비물 누락 문제를 해결하는 체크리스트 서비스
