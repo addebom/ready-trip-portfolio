@@ -36,7 +36,7 @@
 가는 날 준비물을 관리하는 대표 화면입니다.
 
 <p align="center">
-  <img src="screenshots/main.png" width="320">
+  <img src="screenshots/main.jpg" width="320">
 </p>
 
 ---
@@ -46,7 +46,7 @@
 가는 날과 돌아오는 날을 분리하여 관리할 수 있습니다.
 
 <p align="center">
-  <img src="screenshots/return.png" width="320">
+  <img src="screenshots/return.jpg" width="320">
 </p>
 
 ---
@@ -56,7 +56,7 @@
 여행 상황에 따라 필요한 준비물을 추천합니다.
 
 <p align="center">
-  <img src="screenshots/recommend_departure.png" width="320">
+  <img src="screenshots/recommend_departure.jpg" width="320">
 </p>
 
 ---
@@ -66,7 +66,7 @@
 귀국 시 필요한 준비물도 함께 추천합니다.
 
 <p align="center">
-  <img src="screenshots/recommend_return.png" width="320">
+  <img src="screenshots/recommend_return.jpg" width="320">
 </p>
 
 ---
