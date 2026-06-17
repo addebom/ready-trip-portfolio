@@ -33,19 +33,19 @@
 ### 메인 체크리스트
 
 <p align="center">
-  <img src="screenshots/main.png" width="300">
+  <img src="screenshots/main.jpg" width="300">
 </p>
 
 ### 귀국 준비 체크리스트
 
 <p align="center">
-  <img src="screenshots/return.png" width="300">
+  <img src="screenshots/return.jpg" width="300">
 </p>
 
 ### 추천 준비물
 
 <p align="center">
-  <img src="screenshots/recommend_departure.png" width="300">
+  <img src="screenshots/recommend.jpg" width="300">
 </p>
 
 ---
